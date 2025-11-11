@@ -155,10 +155,6 @@ const Login = () => {
           </button>
         </form>
         {/* 提示信息 */}
-        <div className="mt-6 text-center text-sm text-slate-500 dark:text-slate-400">
-          <p>管理员账户: admin / password</p>
-          <p>业务员账户: sales1 或 sales2 / password</p>
-        </div>
       </div>
     </div>
 
@@ -168,4 +164,5 @@ const Login = () => {
 
 
 export default Login;
+
 
